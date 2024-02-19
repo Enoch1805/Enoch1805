@@ -10,7 +10,7 @@
 Enoch1805/Enoch1805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Im interested in an API that  allows cross any ios or android platformtoround up payments from any transaction orinstitution
+Im interested in an API that  allows any ios or android platform to round up payments from any transaction source or institution
 Im just gettung started learning API
 im looking for colabration on how to use this platform to create my first secure app utilizing currencies
 Reach me at sales@azebproducts.com
